@@ -6,3 +6,5 @@
 })
   (window, document, 'script', 'https://cloud.yeself.com:443/sdk/7ff3c03f-344f-49ba-8869-5675e98978bc/app.ie.js', 'yesElf');
 yesElf('id', '7ff3c03f-344f-49ba-8869-5675e98978bc');
+yesElf('segmentation', 'userId', 'testId');
+yesElf('segmentation', 'roles', 'admin');
